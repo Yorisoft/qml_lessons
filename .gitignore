@@ -22,7 +22,7 @@
 *.qmlls.ini
 *.cache
 *.qmake.statsh
-*compile_command.json
+*compile_commands.json
 *.pro
 *.cache
 *Makefile
