@@ -1,0 +1,29 @@
+#	ignore build files
+**/build
+**/Debug
+**/.vs
+**/x64
+**/out
+**.build
+**.sln
+**.vcxproj
+**.vcxproj.**
+**.user
+**/packages
+**packages.config
+**/gtest
+**/src
+**/logs
+
+# Vim
+**/.clang-format
+
+#QML
+*.qmlls.ini
+*.cache
+*.qmake.statsh
+*compile_command.json
+*.pro
+*.cache
+*Makefile
+
