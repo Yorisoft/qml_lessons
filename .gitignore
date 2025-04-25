@@ -15,14 +15,10 @@
 **/src
 **/logs
 
-# Vim
-**/.clang-format
-
 #QML
-*.qmlls.ini
 *.cache
 *.qmake.statsh
-*compile_commands.json 
+*compile_commands.json
 *.pro
 *.cache
 *Makefile
