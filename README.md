@@ -36,28 +36,28 @@
 
 ## Intro  
 > [!WARNING]
-> A development environment wit QT/QML is required to follow along with this guide - be sure to set that up before continuing.  
-> This README does not provide a guide on setting up a development environemnt for the various OS or IDE and assumes its already been set up. 
+> A development environment with QT/QML is required to follow along with this guide - be sure to set that up before continuing.  
+> This README does not provide a guide on setting up a development environemnt for various operating systems or IDEs and assumes it's already been set up. 
 >  
 >  
-> See the "Favorite Resources" section for resources on setting up Qt/QML or checkout XXX
+> See the "Favorite Resources" section for resources on setting up Qt/QML or check out XXX
 
 ### What is Qt?  
 
-### Design Criteria of Qt?  
+### Design Criteria of Qt  
 
 ## Lessons  
 ### Lesson 1: Hello Qt
 [Go to Lesson 1](lessons/lesson_1)  
   
-  As with many programming languages an appropriate place to start when learning Qt/QML would be with a Hello World program. This lesson quickly goes through setting up a text field in QML to display a hello world message. To do this requires some basic beginer knowledge about writing, building and executing `.qml` files in a project.   
+  an appropriate place to start when learning Qt/QML is with a Hello World program. This lesson quickly goes through setting up a text field in QML to display a hello world message. To do this requires some basic beginner knowledge about writing, building and executing `.qml` files in a project.   
   
   In this lesson we learn: 
   -	Writing `.qml` files
   -	Integrating `.qml` with `.cpp` files
   -	Executing individual `.qml` files
-  -	Building Qt/QML project using qmake
-  -	Building Qt/QML project using CMake  
+  -	Building a Qt/QML project using qmake
+  -	Building a Qt/QML project using CMake  
 
  
 ### Lesson 2
