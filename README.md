@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/bd4bb6f0-12bf-473d-91fb-b23a4e5a9729" alt="Qt Icon" style="height: 300px;"/>
+  <img src="https://raw.githubusercontent.com/Yorisoft/qml_lessons/refs/heads/main/images/qt_qml_bol_readme_banner_no_bg.png" alt="Qt Icon" style="height: 300px;"/>
 
   <h1>
     <img src="https://skillicons.dev/icons?i=qt&perline=20" alt="Qt Icon" style="vertical-align: middle; margin-right: 20px; height: 33px;"/>
@@ -8,7 +8,7 @@
   </h1>
 </div>
 
-<p align="center" class="h6">By Yelsin Sepulveda</p>
+<p align="center" class="h6">By Yelsin Sepulveda</p><br>
 
 This is a collection of lessons, or Bill of Lessons, that I've picked up throughout my Qt/QML learning journey. These lessons are heavily inspired by my favorite Qt/QML [learning reasources](#favorite-resources).
 
@@ -47,13 +47,37 @@ This is a collection of lessons, or Bill of Lessons, that I've picked up through
 ### Design Criteria of Qt?  
 
 ## Lessons  
-### [Lesson 1: Hello Qt](lessons/lesson_1)
-### [Lesson 2](lessons/lesson_2/README.md)
-### [Lesson 3](lessons/lesson_3/README.md)
-### [Lesson 4](lessons/lesson_4/README.md)
-### [Lesson 5](lessons/lesson_5/README.md)
-### [Lesson 6](lessons/lesson_6/README.md)
-### [Lesson 7](lessons/lesson_7/README.md)
+### Lesson 1: Hello Qt
+[Go to Lesson 1](lessons/lesson_1)  
+  
+  As with many programming languages an appropriate place to start when learning Qt/QML would be with a Hello World program. This lesson quickly goes through setting up a text field in QML to display a hello world message. To do this requires some basic beginer knowledge about writing, building and executing `.qml` files in a project.   
+  
+  In this lesson we learn: 
+  -	Writing `.qml` files
+  -	Integrating `.qml` with `.cpp` files
+  -	Executing individual `.qml` files
+  -	Building Qt/QML project using qmake
+  -	Building Qt/QML project using CMake  
+
+ 
+### Lesson 2
+[Go to Lesson 2](lessons/lesson_2/README.md)
+
+### Lesson 3
+[Go to Lesson 3](lessons/lesson_3/README.md)
+
+### Lesson 4
+[Go to Lesson 4](lessons/lesson_4/README.md)
+
+### Lesson 5
+[Go to Lesson 5](lessons/lesson_5/README.md)
+
+### Lesson 6
+[Go to Lesson 6](lessons/lesson_6/README.md)
+
+### Lesson 7
+[Go to Lesson 7](lessons/lesson_7/README.md)
+
 
 
 ## Favorite Resources      
@@ -64,17 +88,18 @@ https://doc.qt.io/qt-6.8/index.html
   
 **Qt Wiki List of Online Books**:  
 https://wiki.qt.io/Books     
-  
-  
- 
+
+<br>
+
 ### QtWidgets   
 **Youtube Tutorial Playlist for Qt By KDAB**:   
 https://www.youtube.com/playlist?list=PL6CJYn40gN6gf-G-o6syFwGrtq3kItEqI    
   
 **Youtube Qt6 QtWidgets Tutorial Playlist for Qt By Bryan Cairns**:   
 https://www.youtube.com/playlist?list=PLUbFnGajtZlXbrbdlraCe3LMC_YH5abao   
-  
- 
+
+<br>
+
 ### QtQuick/QML      
 **Youtube Tutorial Playlist for Qt By KDAB**:   
 https://www.youtube.com/playlist?list=PL6CJYn40gN6hdNC1IGQZfVI707dh9DPRc    
