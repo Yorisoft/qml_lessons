@@ -10,7 +10,7 @@
 
 <p align="center" class="h6">By Yelsin Sepulveda</p><br>
 
-This is a collection of lessons, or Bill of Lessons, that I've picked up throughout my Qt/QML learning journey. These lessons are heavily inspired by my favorite Qt/QML [learning reasources](#favorite-resources).
+<p align="center"> This is a collection of lessons, or Bill of Lessons, that I've picked up throughout my Qt/QML learning journey. These lessons are heavily inspired by my favorite Qt/QML <a href="#favorite-resources">learning resources</a>. </p>
 
 <!-- TABLE OF CONTENTS -->  
 <!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
