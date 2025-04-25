@@ -4,7 +4,7 @@
 
   <h1>
     <img src="https://skillicons.dev/icons?i=qt&perline=20" alt="Qt Icon" style="vertical-align: middle; margin-right: 20px; height: 33px;"/>
-    Qt / QML Bill of Lessons
+    Qt / QML Bill of Lessons - WIP
   </h1>
 </div>
 
