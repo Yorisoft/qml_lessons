@@ -61,22 +61,22 @@
 
  
 ### Lesson 2
-[Go to Lesson 2](bill_of_lessons/lesson_2/README.md)
+[Go to Lesson 2](https://github.com/Yorisoft/qt_qml_bol/blob/main/bill_of_lessons/lesson_1/README.md)
 
 ### Lesson 3
-[Go to Lesson 3](bill_of_lessons/lesson_3/README.md)
+[Go to Lesson 3](https://github.com/Yorisoft/qt_qml_bol/blob/main/bill_of_lessons/lesson_3/README.md)
 
 ### Lesson 4
-[Go to Lesson 4](bill_of_lessons/lesson_4/README.md)
+[Go to Lesson 4](https://github.com/Yorisoft/qt_qml_bol/blob/main/bill_of_lessons/lesson_4/README.md)
 
 ### Lesson 5
-[Go to Lesson 5](bill_of_lessons/lesson_5/README.md)
+[Go to Lesson 5](https://github.com/Yorisoft/qt_qml_bol/blob/main/bill_of_lessons/lesson_5/README.md)
 
 ### Lesson 6
-[Go to Lesson 6](bill_of_lessons/lesson_6/README.md)
+[Go to Lesson 6](https://github.com/Yorisoft/qt_qml_bol/blob/main/bill_of_lessons/lesson_6/README.md)
 
 ### Lesson 7
-[Go to Lesson 7](bill_of_lessons/lesson_7/README.md)
+[Go to Lesson 7](https://github.com/Yorisoft/qt_qml_bol/blob/main/bill_of_lessons/lesson_7/README.md)
 
 
 
