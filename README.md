@@ -19,8 +19,8 @@
 <summary>click to expand</summary>
  
 - [Intro](#intro)  
-  * [What is Qt?](#what-is-qt)  
-  * [Design Criteria of Qt](#design-criteria-of-qt)  
+  * [What is Qt/QML?](#what-is-qt)  
+  * [Design Criteria of Qt/QML](#design-criteria-of-qt)  
 - [Lessons](#lessons)
   * [Lesson 1: Hello Qt](#lesson-1-hello-qt)  
   * [Lesson 2](#lesson-2)  
@@ -34,6 +34,9 @@
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
 
+<br>
+<br>
+
 ## Intro  
 > [!IMPORTANT]
 > A development environment with QT/QML is required to follow along with this guide - be sure to set that up before continuing.  
@@ -42,9 +45,26 @@
 >  
 > See the "Favorite Resources" section for resources on setting up Qt/QML or check out XXX
 
+<br>
+<br>
+
 ### What is Qt?  
 
+Lets start off with some basic terminology:
+
+| Term          | Description |
+|---------------|-------------|
+| **Qt**        | A cross-platform framework for building applications. It is written in C++ and allows developers to define both programming and GUI logic. |
+| **QML**       | A declarative programming language with built-in JavaScript for logic. Usually used for the visual/UI part of an app, while the backend is handled in C++. |
+| **QtWidgets** | A Qt module that allows you to build traditional user interfaces in C++. |
+| **QtQuick**   | A modern Qt module for building UIs using QML. It simplifies the creation of fluid, animated, and dynamic interfaces. |
+
+<br>
+
 ### Design Criteria of Qt  
+
+<br>
+<br>
 
 ## Lessons  
 ### Lesson 1: Hello Qt
@@ -78,7 +98,8 @@
 ### Lesson 7
 [Go to Lesson 7](https://github.com/Yorisoft/qt_qml_bol/blob/main/bill_of_lessons/lesson_7/README.md)
 
-
+<br>
+<br>
 
 ## Favorite Resources      
   
