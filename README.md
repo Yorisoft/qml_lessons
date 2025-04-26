@@ -35,7 +35,7 @@
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ## Intro  
-> [!WARNING]
+> [!IMPORTANT]
 > A development environment with QT/QML is required to follow along with this guide - be sure to set that up before continuing.  
 > This README does not provide a guide on setting up a development environemnt for various operating systems or IDEs and assumes it's already been set up. 
 >  
